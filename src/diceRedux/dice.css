@@ -1,0 +1,12 @@
+.game{
+    background-image: url('../../public/img/bgGame.png');
+    width: 100%;
+    height: 100%;
+    position:fixed; 
+    font-family: fontGame;
+}
+@font-face{ 
+    font-family: fontGame;
+    src: url('../../public/img/Pony.ttf');
+  
+}
